@@ -1,21 +1,21 @@
-# PermissionLibrary
+# Permission Library
 
 **This project demonstrates the usage of a custom permission library (`MyPermissionLibrary`) for handling runtime permissions in Android applications.**
 
----
+
 
 ## Overview
 
 The `MyPermissionLibrary` simplifies the process of requesting multiple runtime permissions in an Android app. It provides a fluent API to request permissions and handle the user's response asynchronously.
 
----
+
 
 ## Features
 
 - Requesting multiple permissions (`WRITE_EXTERNAL_STORAGE`, `ACCESS_FINE_LOCATION`, `CAMERA`) with a single method call.
 - Handling permission callbacks (`onGuarantee`, `onDeny`, `onFinish`) to manage permission outcomes effectively.
 
----
+
 
 ## Usage
 
@@ -58,7 +58,7 @@ To integrate `MyPermissionLibrary` into your Android project:
     };
     ```
 
----
+
 
 ## Example
 
