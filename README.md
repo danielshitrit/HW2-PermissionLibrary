@@ -1,6 +1,6 @@
 # Permission Library
 
-**This project demonstrates the usage of a custom permission library (`MyPermissionLibrary`) for handling runtime permissions in Android applications.**
+**This project demonstrates the usage of a simple permission library (`MyPermissionLibrary`) for handling runtime permissions in Android applications.**
 
 
 
@@ -14,6 +14,10 @@ The `MyPermissionLibrary` simplifies the process of requesting multiple runtime 
 
 - Requesting multiple permissions (`WRITE_EXTERNAL_STORAGE`, `ACCESS_FINE_LOCATION`, `CAMERA`) with a single method call.
 - Handling permission callbacks (`onGuarantee`, `onDeny`, `onFinish`) to manage permission outcomes effectively.
+
+
+## Video
+https://github.com/danielshitrit/HW2-PermissionLibrary/assets/117349965/d63f1e90-6027-4dfd-bb73-a8a48cbce652
 
 
 
