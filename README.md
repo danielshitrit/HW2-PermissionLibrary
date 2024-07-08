@@ -17,7 +17,7 @@ The `MyPermissionLibrary` simplifies the process of requesting multiple runtime 
 
 
 ## Video
-https://github.com/danielshitrit/HW2-PermissionLibrary/assets/117349965/d63f1e90-6027-4dfd-bb73-a8a48cbce652
+https://github.com/danielshitrit/HW2-PermissionLibrary/assets/117349965/99ce6a68-a061-48be-b6e9-a02f9803e51f
 
 
 
